@@ -1,0 +1,1 @@
+This repository demonstrates a potential integer overflow bug in Perl when calculating the sum of a large numerical array. The bug.pl file contains the erroneous code, while bugSolution.pl provides a corrected version using Math::BigInt to handle arbitrarily large integers.
