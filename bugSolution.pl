@@ -1,0 +1,1 @@
+use Math::BigInt;my @array = (1..100000);my $sum = Math::BigInt->new(0);foreach my $i (@array){    $sum += $i;}print "Sum: $sum\n";
